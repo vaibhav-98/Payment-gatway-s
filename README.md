@@ -1,2 +1,1 @@
-key_Id: rzp_test_9G3iTJPhWv617Z
-Secret_Key: th3yHS00C8iCeCUXFs6gn0Xy
+
